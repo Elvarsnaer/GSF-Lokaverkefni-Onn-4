@@ -83,3 +83,49 @@ FOREIGN KEY (RENT_NUM) REFERENCES RENTAL(RENT_NUM),
 
 FOREIGN KEY (VID_NUM) REFERENCES VIDEO(VID_NUM)
 );
+
+insert into membership(MEM_NUM, MEM_FNAME, MEM_LANME, MEM_STREET, MEM_CITY, MEM_STATE, MEM_ZIP, MEM_BALANCE)
+
+VALUES (102, 'Tami', 'Dawson', '2632 Takli Circle', 'Norene', 'TN', 37136, 11);
+
+insert into membership(MEM_NUM, MEM_FNAME, MEM_LANME, MEM_STREET, MEM_CITY, MEM_STATE, MEM_ZIP, MEM_BALANCE)
+
+VALUES (103, 'Curt', 'Knight', '4025 Cornell Court', 'Flatgap', 'KY', 41219, 6);
+
+insert into membership(MEM_NUM, MEM_FNAME, MEM_LANME, MEM_STREET, MEM_CITY, MEM_STATE, MEM_ZIP, MEM_BALANCE)
+
+VALUES (104, 'Jamal', 'Melendez', '788 East 145th Avenue', 'Quebeck', 'TN', 38579, 0);
+
+insert into membership(MEM_NUM, MEM_FNAME, MEM_LANME, MEM_STREET, MEM_CITY, MEM_STATE, MEM_ZIP, MEM_BALANCE)
+
+VALUES (105, 'Iva', 'Mcclain', '6045 Musket Ball Circle', 'Summit', 'KY', 42783, 15);
+
+insert into membership(MEM_NUM, MEM_FNAME, MEM_LANME, MEM_STREET, MEM_CITY, MEM_STATE, MEM_ZIP, MEM_BALANCE)
+
+VALUES (105, 'Iva', 'Mcclain', '6045 Musket Ball Circle', 'Summit', 'KY', 42783, 15);
+
+insert into membership(MEM_NUM, MEM_FNAME, MEM_LANME, MEM_STREET, MEM_CITY, MEM_STATE, MEM_ZIP, MEM_BALANCE)
+
+VALUES (107, 'Rosario', 'Elliot', '7578 Danner Avenue', 'Columbia', 'TN', 38402, 5);
+
+insert into membership(MEM_NUM, MEM_FNAME, MEM_LANME, MEM_STREET, MEM_CITY, MEM_STATE, MEM_ZIP, MEM_BALANCE)
+
+VALUES (107, 'Rosario', 'Elliot', '7578 Danner Avenue', 'Columbia', 'TN', 38402, 5);
+
+insert into membership(MEM_NUM, MEM_FNAME, MEM_LANME, MEM_STREET, MEM_CITY, MEM_STATE, MEM_ZIP, MEM_BALANCE)
+VALUES (109, 'Clint', 'Ochoa', '1711 Elm Street', 'Greeneville', 'TN', 37745, 10);
+
+insert into membership(MEM_NUM, MEM_FNAME, MEM_LANME, MEM_STREET, MEM_CITY, MEM_STATE, MEM_ZIP, MEM_BALANCE)
+
+VALUES (110, 'Lewis', 'Rosales', '4524 Southwind Circle', 'Counce', 'TN', 38326, 0);
+
+insert into membership(MEM_NUM, MEM_FNAME, MEM_LANME, MEM_STREET, MEM_CITY, MEM_STATE, MEM_ZIP, MEM_BALANCE)
+VALUES (111, 'Stacy', 'Mann', '2789 East Cook Avenue', 'Murfreesboro', 'TN', 37132, 8);
+
+insert into membership(MEM_NUM, MEM_FNAME, MEM_LANME, MEM_STREET, MEM_CITY, MEM_STATE, MEM_ZIP, MEM_BALANCE)
+
+VALUES (112, 'Luis', 'Trujillo', '7267 Melvin Avenue', 'Heiskell', 'TN', 37754, 3);
+
+insert into membership(MEM_NUM, MEM_FNAME, MEM_LANME, MEM_STREET, MEM_CITY, MEM_STATE, MEM_ZIP, MEM_BALANCE)
+
+VALUES (113, 'Minne', 'Gonzales', '6430 Vasili Drive', 'Williston', 'TN', 38076, 0);
