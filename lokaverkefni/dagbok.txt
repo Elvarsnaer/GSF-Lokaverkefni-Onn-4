@@ -1,7 +1,15 @@
-3.04.2017 - byrjaði á verkefninu, setti upp githubsíðu
+03.04.2017 - byrjaði á verkefninu, setti upp githubsíðu
 
-5.04.2017 -
+05.04.2017 - byrjaði á að setja upp database og table
 
-27.04.2017 -
+27.04.2017 - hélt áfram á tables
 
-28.04.2017 - 
+28.04.2017 - kláraði tables og byrjaði á spurningum
+
+03.05.2017 - hélt áfram með spurningar
+
+04.05.2017 - hélt áfram með spurningarnar
+
+05.05.2017 - hélt áfram með spurningar
+
+07.07.2017 - kláraði eins mikið og ég gat í spurningunum
